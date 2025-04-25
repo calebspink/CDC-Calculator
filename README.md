@@ -8,6 +8,8 @@ License: Some sort of copyleft
 
 This is a calculator and graphing tool utilizing the conservative dual-criterion method (CDC) where trend and level lines are increased or decreased by 0.25x the standard deviation from the previous phase. The number of points below and above both lines are tested for statistical significance (Fisher et al., 2003). However, the program uses Fisher et al.'s (2003) modified list to for comparison with 3/3 and 4/4 added.
 
+The GUI was made using Custom TKinter (https://github.com/TomSchimansky/CustomTkinter.git). 
+
 Task Analysis:
 
 1. Download the program and open it
