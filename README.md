@@ -18,7 +18,15 @@ Task Analysis:
 4. There are two dropdown menus per phase. One is for condition name selection and the other is for selecting predicted direction ("+" for increasing and "-" for decreasing).
 5. Click "Generate Graph" and interpretations will appear in the output console. A seperate window featuring the graph with appear.
 6. Click "Save Graph"
-7. Click "Clear All" to, well, clear all
+7. Click "Clear All" to clear inputs, table, and console.
+
+Issues:
+1. An additional figure window will appear when a graph is generated
+2. Formatting 
+
+File List:
+CDC_Calculator.py: script version
+CDC Calculator.exe: Executable version
 
 References: 
 
