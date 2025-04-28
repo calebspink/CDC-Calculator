@@ -12,7 +12,7 @@ The GUI was made using Custom TKinter (https://github.com/TomSchimansky/CustomTk
 
 Task Analysis:
 
-1. Download the program and open it
+1. Download and run the application
 2. Enter information. "# of Phases" and "# of Sessions" are the only necessary fields and must contain integers.
 3. Click "Generate Table"
 4. There are two dropdown menus per phase. One is for condition name selection and the other is for selecting predicted direction ("+" for increasing and "-" for decreasing).
@@ -22,7 +22,8 @@ Task Analysis:
 
 Issues:
 1. An additional figure window will appear when a graph is generated
-2. Formatting 
+2. Formatting
+3. Start-up speed
 
 File List:
 CDC_Calculator.py: script version
